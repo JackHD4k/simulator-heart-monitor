@@ -10,7 +10,7 @@ function CO2() {
       </div>
 
       <div className='info_co2'>
-        <h1 className='texto_co2'>99<span>%</span></h1>
+        <h1 className='texto_co2'>5.0<span></span></h1>
         <span class="material-icons favco2">co2</span>   
       </div>
 

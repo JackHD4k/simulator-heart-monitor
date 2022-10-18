@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <img className='img_logo' src="./src/assets/logoeppsvg.svg" alt="a" />
+        <img className='img_logo' src="./logoeppsvg.svg" alt="a" />
       </header>
       <div className='container_svg'>
         <HR />
